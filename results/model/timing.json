@@ -1,0 +1,7 @@
+{
+ "patients": 40,
+ "simulated_s": 120.0,
+ "wall_s": 71.39728049997939,
+ "processor": "Intel64 Family 6 Model 170 Stepping 4, GenuineIntel",
+ "python": "3.12.10"
+}

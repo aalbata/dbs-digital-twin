@@ -1,0 +1,566 @@
+{
+ "dataset": "ds004998",
+ "version": "1.2.2",
+ "files": [
+  {
+   "subject": "sub-0cGdk9",
+   "med": "MedOff",
+   "file": "sub-0cGdk9/ses-PeriOp/meg/sub-0cGdk9_ses-PeriOp_task-HoldL_acq-MedOff_run-1_meg.fif",
+   "bytes": 1910577638,
+   "sidecars": [
+    "sub-0cGdk9/ses-PeriOp/meg/sub-0cGdk9_ses-PeriOp_task-HoldL_acq-MedOff_run-1_channels.tsv",
+    "sub-0cGdk9/ses-PeriOp/meg/sub-0cGdk9_ses-PeriOp_task-HoldL_acq-MedOff_run-1_events.tsv",
+    "sub-0cGdk9/ses-PeriOp/meg/sub-0cGdk9_ses-PeriOp_task-HoldL_acq-MedOff_run-1_meg.json"
+   ],
+   "montage": [
+    "sub-0cGdk9/ses-PeriOp/montage/sub-0cGdk9_ses-PeriOp_montage.tsv"
+   ]
+  },
+  {
+   "subject": "sub-0cGdk9",
+   "med": "MedOn",
+   "file": "sub-0cGdk9/ses-PeriOp/meg/sub-0cGdk9_ses-PeriOp_task-HoldL_acq-MedOn_run-1_meg.fif",
+   "bytes": 1712900020,
+   "sidecars": [
+    "sub-0cGdk9/ses-PeriOp/meg/sub-0cGdk9_ses-PeriOp_task-HoldL_acq-MedOn_run-1_channels.tsv",
+    "sub-0cGdk9/ses-PeriOp/meg/sub-0cGdk9_ses-PeriOp_task-HoldL_acq-MedOn_run-1_events.tsv",
+    "sub-0cGdk9/ses-PeriOp/meg/sub-0cGdk9_ses-PeriOp_task-HoldL_acq-MedOn_run-1_meg.json"
+   ],
+   "montage": [
+    "sub-0cGdk9/ses-PeriOp/montage/sub-0cGdk9_ses-PeriOp_montage.tsv"
+   ]
+  },
+  {
+   "subject": "sub-2IU8mi",
+   "med": "MedOff",
+   "file": "sub-2IU8mi/ses-PeriOp/meg/sub-2IU8mi_ses-PeriOp_task-HoldL_acq-MedOff_run-1_meg.fif",
+   "bytes": 1912515729,
+   "sidecars": [
+    "sub-2IU8mi/ses-PeriOp/meg/sub-2IU8mi_ses-PeriOp_task-HoldL_acq-MedOff_run-1_channels.tsv",
+    "sub-2IU8mi/ses-PeriOp/meg/sub-2IU8mi_ses-PeriOp_task-HoldL_acq-MedOff_run-1_events.tsv",
+    "sub-2IU8mi/ses-PeriOp/meg/sub-2IU8mi_ses-PeriOp_task-HoldL_acq-MedOff_run-1_meg.json"
+   ],
+   "montage": [
+    "sub-2IU8mi/ses-PeriOp/montage/sub-2IU8mi_ses-PeriOp_montage.tsv"
+   ]
+  },
+  {
+   "subject": "sub-2IU8mi",
+   "med": "MedOn",
+   "file": "sub-2IU8mi/ses-PeriOp/meg/sub-2IU8mi_ses-PeriOp_task-HoldL_acq-MedOn_run-1_split-01_meg.fif",
+   "bytes": 2145077760,
+   "sidecars": [
+    "sub-2IU8mi/ses-PeriOp/meg/sub-2IU8mi_ses-PeriOp_task-HoldL_acq-MedOn_run-1_channels.tsv",
+    "sub-2IU8mi/ses-PeriOp/meg/sub-2IU8mi_ses-PeriOp_task-HoldL_acq-MedOn_run-1_meg.json",
+    "sub-2IU8mi/ses-PeriOp/meg/sub-2IU8mi_ses-PeriOp_task-HoldL_acq-MedOn_run-1_split-01_events.tsv"
+   ],
+   "montage": [
+    "sub-2IU8mi/ses-PeriOp/montage/sub-2IU8mi_ses-PeriOp_montage.tsv"
+   ]
+  },
+  {
+   "subject": "sub-2IhVOz",
+   "med": "MedOff",
+   "file": "sub-2IhVOz/ses-PeriOp/meg/sub-2IhVOz_ses-PeriOp_task-HoldR_acq-MedOff_run-1_split-01_meg.fif",
+   "bytes": 2145077779,
+   "sidecars": [
+    "sub-2IhVOz/ses-PeriOp/meg/sub-2IhVOz_ses-PeriOp_task-HoldR_acq-MedOff_run-1_channels.tsv",
+    "sub-2IhVOz/ses-PeriOp/meg/sub-2IhVOz_ses-PeriOp_task-HoldR_acq-MedOff_run-1_meg.json",
+    "sub-2IhVOz/ses-PeriOp/meg/sub-2IhVOz_ses-PeriOp_task-HoldR_acq-MedOff_run-1_split-01_events.tsv"
+   ],
+   "montage": [
+    "sub-2IhVOz/ses-PeriOp/montage/sub-2IhVOz_ses-PeriOp_montage.tsv"
+   ]
+  },
+  {
+   "subject": "sub-2IhVOz",
+   "med": "MedOn",
+   "file": "sub-2IhVOz/ses-PeriOp/meg/sub-2IhVOz_ses-PeriOp_task-HoldR_acq-MedOn_run-1_split-01_meg.fif",
+   "bytes": 2145077787,
+   "sidecars": [
+    "sub-2IhVOz/ses-PeriOp/meg/sub-2IhVOz_ses-PeriOp_task-HoldR_acq-MedOn_run-1_channels.tsv",
+    "sub-2IhVOz/ses-PeriOp/meg/sub-2IhVOz_ses-PeriOp_task-HoldR_acq-MedOn_run-1_meg.json",
+    "sub-2IhVOz/ses-PeriOp/meg/sub-2IhVOz_ses-PeriOp_task-HoldR_acq-MedOn_run-1_split-01_events.tsv"
+   ],
+   "montage": [
+    "sub-2IhVOz/ses-PeriOp/montage/sub-2IhVOz_ses-PeriOp_montage.tsv"
+   ]
+  },
+  {
+   "subject": "sub-6m9kB5",
+   "med": "MedOff",
+   "file": "sub-6m9kB5/ses-PeriOp/meg/sub-6m9kB5_ses-PeriOp_task-Rest_acq-MedOff_run-1_meg.fif",
+   "bytes": 804865267,
+   "sidecars": [
+    "sub-6m9kB5/ses-PeriOp/meg/sub-6m9kB5_ses-PeriOp_task-Rest_acq-MedOff_run-1_channels.tsv",
+    "sub-6m9kB5/ses-PeriOp/meg/sub-6m9kB5_ses-PeriOp_task-Rest_acq-MedOff_run-1_events.tsv",
+    "sub-6m9kB5/ses-PeriOp/meg/sub-6m9kB5_ses-PeriOp_task-Rest_acq-MedOff_run-1_meg.json"
+   ],
+   "montage": [
+    "sub-6m9kB5/ses-PeriOp/montage/sub-6m9kB5_ses-PeriOp_montage.tsv"
+   ]
+  },
+  {
+   "subject": "sub-6m9kB5",
+   "med": "MedOn",
+   "file": "sub-6m9kB5/ses-PeriOp/meg/sub-6m9kB5_ses-PeriOp_task-Rest_acq-MedOn_run-1_split-01_meg.fif",
+   "bytes": 2145683783,
+   "sidecars": [
+    "sub-6m9kB5/ses-PeriOp/meg/sub-6m9kB5_ses-PeriOp_task-Rest_acq-MedOn_run-1_channels.tsv",
+    "sub-6m9kB5/ses-PeriOp/meg/sub-6m9kB5_ses-PeriOp_task-Rest_acq-MedOn_run-1_meg.json",
+    "sub-6m9kB5/ses-PeriOp/meg/sub-6m9kB5_ses-PeriOp_task-Rest_acq-MedOn_run-1_split-01_events.tsv"
+   ],
+   "montage": [
+    "sub-6m9kB5/ses-PeriOp/montage/sub-6m9kB5_ses-PeriOp_montage.tsv"
+   ]
+  },
+  {
+   "subject": "sub-8RgPiG",
+   "med": "MedOff",
+   "file": "sub-8RgPiG/ses-PeriOp/meg/sub-8RgPiG_ses-PeriOp_task-Rest_acq-MedOff_run-1_split-01_meg.fif",
+   "bytes": 2145328911,
+   "sidecars": [
+    "sub-8RgPiG/ses-PeriOp/meg/sub-8RgPiG_ses-PeriOp_task-Rest_acq-MedOff_run-1_channels.tsv",
+    "sub-8RgPiG/ses-PeriOp/meg/sub-8RgPiG_ses-PeriOp_task-Rest_acq-MedOff_run-1_meg.json",
+    "sub-8RgPiG/ses-PeriOp/meg/sub-8RgPiG_ses-PeriOp_task-Rest_acq-MedOff_run-1_split-01_events.tsv"
+   ],
+   "montage": [
+    "sub-8RgPiG/ses-PeriOp/montage/sub-8RgPiG_ses-PeriOp_montage.tsv"
+   ]
+  },
+  {
+   "subject": "sub-8RgPiG",
+   "med": "MedOn",
+   "file": "sub-8RgPiG/ses-PeriOp/meg/sub-8RgPiG_ses-PeriOp_task-Rest_acq-MedOn_run-1_split-01_meg.fif",
+   "bytes": 2145328910,
+   "sidecars": [
+    "sub-8RgPiG/ses-PeriOp/meg/sub-8RgPiG_ses-PeriOp_task-Rest_acq-MedOn_run-1_channels.tsv",
+    "sub-8RgPiG/ses-PeriOp/meg/sub-8RgPiG_ses-PeriOp_task-Rest_acq-MedOn_run-1_meg.json",
+    "sub-8RgPiG/ses-PeriOp/meg/sub-8RgPiG_ses-PeriOp_task-Rest_acq-MedOn_run-1_split-01_events.tsv"
+   ],
+   "montage": [
+    "sub-8RgPiG/ses-PeriOp/montage/sub-8RgPiG_ses-PeriOp_montage.tsv"
+   ]
+  },
+  {
+   "subject": "sub-AB2PeX",
+   "med": "MedOff",
+   "file": "sub-AB2PeX/ses-PeriOp/meg/sub-AB2PeX_ses-PeriOp_task-HoldL_acq-MedOff_run-1_meg.fif",
+   "bytes": 2121821357,
+   "sidecars": [
+    "sub-AB2PeX/ses-PeriOp/meg/sub-AB2PeX_ses-PeriOp_task-HoldL_acq-MedOff_run-1_channels.tsv",
+    "sub-AB2PeX/ses-PeriOp/meg/sub-AB2PeX_ses-PeriOp_task-HoldL_acq-MedOff_run-1_events.tsv",
+    "sub-AB2PeX/ses-PeriOp/meg/sub-AB2PeX_ses-PeriOp_task-HoldL_acq-MedOff_run-1_meg.json"
+   ],
+   "montage": [
+    "sub-AB2PeX/ses-PeriOp/montage/sub-AB2PeX_ses-PeriOp_montage.tsv"
+   ]
+  },
+  {
+   "subject": "sub-AB2PeX",
+   "med": "MedOn",
+   "file": "sub-AB2PeX/ses-PeriOp/meg/sub-AB2PeX_ses-PeriOp_task-HoldL_acq-MedOn_run-1_meg.fif",
+   "bytes": 2057866933,
+   "sidecars": [
+    "sub-AB2PeX/ses-PeriOp/meg/sub-AB2PeX_ses-PeriOp_task-HoldL_acq-MedOn_run-1_channels.tsv",
+    "sub-AB2PeX/ses-PeriOp/meg/sub-AB2PeX_ses-PeriOp_task-HoldL_acq-MedOn_run-1_events.tsv",
+    "sub-AB2PeX/ses-PeriOp/meg/sub-AB2PeX_ses-PeriOp_task-HoldL_acq-MedOn_run-1_meg.json"
+   ],
+   "montage": [
+    "sub-AB2PeX/ses-PeriOp/montage/sub-AB2PeX_ses-PeriOp_montage.tsv"
+   ]
+  },
+  {
+   "subject": "sub-AbzsOg",
+   "med": "MedOff",
+   "file": "sub-AbzsOg/ses-PeriOp/meg/sub-AbzsOg_ses-PeriOp_task-HoldL_acq-MedOff_run-1_split-01_meg.fif",
+   "bytes": 2146010632,
+   "sidecars": [
+    "sub-AbzsOg/ses-PeriOp/meg/sub-AbzsOg_ses-PeriOp_task-HoldL_acq-MedOff_run-1_channels.tsv",
+    "sub-AbzsOg/ses-PeriOp/meg/sub-AbzsOg_ses-PeriOp_task-HoldL_acq-MedOff_run-1_meg.json",
+    "sub-AbzsOg/ses-PeriOp/meg/sub-AbzsOg_ses-PeriOp_task-HoldL_acq-MedOff_run-1_split-01_events.tsv"
+   ],
+   "montage": [
+    "sub-AbzsOg/ses-PeriOp/montage/sub-AbzsOg_ses-PeriOp_montage.tsv"
+   ]
+  },
+  {
+   "subject": "sub-AbzsOg",
+   "med": "MedOn",
+   "file": "sub-AbzsOg/ses-PeriOp/meg/sub-AbzsOg_ses-PeriOp_task-HoldL_acq-MedOn_run-1_split-01_meg.fif",
+   "bytes": 2145553763,
+   "sidecars": [
+    "sub-AbzsOg/ses-PeriOp/meg/sub-AbzsOg_ses-PeriOp_task-HoldL_acq-MedOn_run-1_channels.tsv",
+    "sub-AbzsOg/ses-PeriOp/meg/sub-AbzsOg_ses-PeriOp_task-HoldL_acq-MedOn_run-1_meg.json",
+    "sub-AbzsOg/ses-PeriOp/meg/sub-AbzsOg_ses-PeriOp_task-HoldL_acq-MedOn_run-1_split-01_events.tsv"
+   ],
+   "montage": [
+    "sub-AbzsOg/ses-PeriOp/montage/sub-AbzsOg_ses-PeriOp_montage.tsv"
+   ]
+  },
+  {
+   "subject": "sub-BYJoWR",
+   "med": "MedOff",
+   "file": "sub-BYJoWR/ses-PeriOp/meg/sub-BYJoWR_ses-PeriOp_task-HoldR_acq-MedOff_run-1_split-01_meg.fif",
+   "bytes": 2145078153,
+   "sidecars": [
+    "sub-BYJoWR/ses-PeriOp/meg/sub-BYJoWR_ses-PeriOp_task-HoldR_acq-MedOff_run-1_channels.tsv",
+    "sub-BYJoWR/ses-PeriOp/meg/sub-BYJoWR_ses-PeriOp_task-HoldR_acq-MedOff_run-1_meg.json",
+    "sub-BYJoWR/ses-PeriOp/meg/sub-BYJoWR_ses-PeriOp_task-HoldR_acq-MedOff_run-1_split-01_events.tsv"
+   ],
+   "montage": [
+    "sub-BYJoWR/ses-PeriOp/montage/sub-BYJoWR_ses-PeriOp_montage.tsv"
+   ]
+  },
+  {
+   "subject": "sub-BYJoWR",
+   "med": "MedOn",
+   "file": "sub-BYJoWR/ses-PeriOp/meg/sub-BYJoWR_ses-PeriOp_task-HoldR_acq-MedOn_run-1_split-01_meg.fif",
+   "bytes": 2145078082,
+   "sidecars": [
+    "sub-BYJoWR/ses-PeriOp/meg/sub-BYJoWR_ses-PeriOp_task-HoldR_acq-MedOn_run-1_channels.tsv",
+    "sub-BYJoWR/ses-PeriOp/meg/sub-BYJoWR_ses-PeriOp_task-HoldR_acq-MedOn_run-1_meg.json",
+    "sub-BYJoWR/ses-PeriOp/meg/sub-BYJoWR_ses-PeriOp_task-HoldR_acq-MedOn_run-1_split-01_events.tsv"
+   ],
+   "montage": [
+    "sub-BYJoWR/ses-PeriOp/montage/sub-BYJoWR_ses-PeriOp_montage.tsv"
+   ]
+  },
+  {
+   "subject": "sub-FIyfdR",
+   "med": "MedOff",
+   "file": "sub-FIyfdR/ses-PeriOp/meg/sub-FIyfdR_ses-PeriOp_task-HoldR_acq-MedOff_run-1_meg.fif",
+   "bytes": 1993912308,
+   "sidecars": [
+    "sub-FIyfdR/ses-PeriOp/meg/sub-FIyfdR_ses-PeriOp_task-HoldR_acq-MedOff_run-1_channels.tsv",
+    "sub-FIyfdR/ses-PeriOp/meg/sub-FIyfdR_ses-PeriOp_task-HoldR_acq-MedOff_run-1_events.tsv",
+    "sub-FIyfdR/ses-PeriOp/meg/sub-FIyfdR_ses-PeriOp_task-HoldR_acq-MedOff_run-1_meg.json"
+   ],
+   "montage": [
+    "sub-FIyfdR/ses-PeriOp/montage/sub-FIyfdR_ses-PeriOp_montage.tsv"
+   ]
+  },
+  {
+   "subject": "sub-FIyfdR",
+   "med": "MedOn",
+   "file": "sub-FIyfdR/ses-PeriOp/meg/sub-FIyfdR_ses-PeriOp_task-HoldR_acq-MedOn_run-1_meg.fif",
+   "bytes": 1986160256,
+   "sidecars": [
+    "sub-FIyfdR/ses-PeriOp/meg/sub-FIyfdR_ses-PeriOp_task-HoldR_acq-MedOn_run-1_channels.tsv",
+    "sub-FIyfdR/ses-PeriOp/meg/sub-FIyfdR_ses-PeriOp_task-HoldR_acq-MedOn_run-1_events.tsv",
+    "sub-FIyfdR/ses-PeriOp/meg/sub-FIyfdR_ses-PeriOp_task-HoldR_acq-MedOn_run-1_meg.json"
+   ],
+   "montage": [
+    "sub-FIyfdR/ses-PeriOp/montage/sub-FIyfdR_ses-PeriOp_montage.tsv"
+   ]
+  },
+  {
+   "subject": "sub-FYbcap",
+   "med": "MedOff",
+   "file": "sub-FYbcap/ses-PeriOp/meg/sub-FYbcap_ses-PeriOp_task-HoldL_acq-MedOff_run-1_meg.fif",
+   "bytes": 1891197453,
+   "sidecars": [
+    "sub-FYbcap/ses-PeriOp/meg/sub-FYbcap_ses-PeriOp_task-HoldL_acq-MedOff_run-1_channels.tsv",
+    "sub-FYbcap/ses-PeriOp/meg/sub-FYbcap_ses-PeriOp_task-HoldL_acq-MedOff_run-1_events.tsv",
+    "sub-FYbcap/ses-PeriOp/meg/sub-FYbcap_ses-PeriOp_task-HoldL_acq-MedOff_run-1_meg.json"
+   ],
+   "montage": [
+    "sub-FYbcap/ses-PeriOp/montage/sub-FYbcap_ses-PeriOp_montage.tsv"
+   ]
+  },
+  {
+   "subject": "sub-FYbcap",
+   "med": "MedOn",
+   "file": "sub-FYbcap/ses-PeriOp/meg/sub-FYbcap_ses-PeriOp_task-HoldL_acq-MedOn_run-1_meg.fif",
+   "bytes": 1823366907,
+   "sidecars": [
+    "sub-FYbcap/ses-PeriOp/meg/sub-FYbcap_ses-PeriOp_task-HoldL_acq-MedOn_run-1_channels.tsv",
+    "sub-FYbcap/ses-PeriOp/meg/sub-FYbcap_ses-PeriOp_task-HoldL_acq-MedOn_run-1_events.tsv",
+    "sub-FYbcap/ses-PeriOp/meg/sub-FYbcap_ses-PeriOp_task-HoldL_acq-MedOn_run-1_meg.json"
+   ],
+   "montage": [
+    "sub-FYbcap/ses-PeriOp/montage/sub-FYbcap_ses-PeriOp_montage.tsv"
+   ]
+  },
+  {
+   "subject": "sub-PuPVlx",
+   "med": "MedOff",
+   "file": "sub-PuPVlx/ses-PeriOp/meg/sub-PuPVlx_ses-PeriOp_task-HoldL_acq-MedOff_run-1_split-01_meg.fif",
+   "bytes": 2145077743,
+   "sidecars": [
+    "sub-PuPVlx/ses-PeriOp/meg/sub-PuPVlx_ses-PeriOp_task-HoldL_acq-MedOff_run-1_channels.tsv",
+    "sub-PuPVlx/ses-PeriOp/meg/sub-PuPVlx_ses-PeriOp_task-HoldL_acq-MedOff_run-1_meg.json",
+    "sub-PuPVlx/ses-PeriOp/meg/sub-PuPVlx_ses-PeriOp_task-HoldL_acq-MedOff_run-1_split-01_events.tsv"
+   ],
+   "montage": [
+    "sub-PuPVlx/ses-PeriOp/montage/sub-PuPVlx_ses-PeriOp_montage.tsv"
+   ]
+  },
+  {
+   "subject": "sub-PuPVlx",
+   "med": "MedOn",
+   "file": "sub-PuPVlx/ses-PeriOp/meg/sub-PuPVlx_ses-PeriOp_task-HoldL_acq-MedOn_run-1_split-01_meg.fif",
+   "bytes": 2145077776,
+   "sidecars": [
+    "sub-PuPVlx/ses-PeriOp/meg/sub-PuPVlx_ses-PeriOp_task-HoldL_acq-MedOn_run-1_channels.tsv",
+    "sub-PuPVlx/ses-PeriOp/meg/sub-PuPVlx_ses-PeriOp_task-HoldL_acq-MedOn_run-1_meg.json",
+    "sub-PuPVlx/ses-PeriOp/meg/sub-PuPVlx_ses-PeriOp_task-HoldL_acq-MedOn_run-1_split-01_events.tsv"
+   ],
+   "montage": [
+    "sub-PuPVlx/ses-PeriOp/montage/sub-PuPVlx_ses-PeriOp_montage.tsv"
+   ]
+  },
+  {
+   "subject": "sub-QZTsn6",
+   "med": "MedOff",
+   "file": "sub-QZTsn6/ses-PeriOp/meg/sub-QZTsn6_ses-PeriOp_task-HoldL_acq-MedOff_run-1_meg.fif",
+   "bytes": 1924143853,
+   "sidecars": [
+    "sub-QZTsn6/ses-PeriOp/meg/sub-QZTsn6_ses-PeriOp_task-HoldL_acq-MedOff_run-1_channels.tsv",
+    "sub-QZTsn6/ses-PeriOp/meg/sub-QZTsn6_ses-PeriOp_task-HoldL_acq-MedOff_run-1_events.tsv",
+    "sub-QZTsn6/ses-PeriOp/meg/sub-QZTsn6_ses-PeriOp_task-HoldL_acq-MedOff_run-1_meg.json"
+   ],
+   "montage": [
+    "sub-QZTsn6/ses-PeriOp/montage/sub-QZTsn6_ses-PeriOp_montage.tsv"
+   ]
+  },
+  {
+   "subject": "sub-QZTsn6",
+   "med": "MedOn",
+   "file": "sub-QZTsn6/ses-PeriOp/meg/sub-QZTsn6_ses-PeriOp_task-HoldL_acq-MedOn_run-1_meg.fif",
+   "bytes": 1906701563,
+   "sidecars": [
+    "sub-QZTsn6/ses-PeriOp/meg/sub-QZTsn6_ses-PeriOp_task-HoldL_acq-MedOn_run-1_channels.tsv",
+    "sub-QZTsn6/ses-PeriOp/meg/sub-QZTsn6_ses-PeriOp_task-HoldL_acq-MedOn_run-1_events.tsv",
+    "sub-QZTsn6/ses-PeriOp/meg/sub-QZTsn6_ses-PeriOp_task-HoldL_acq-MedOn_run-1_meg.json"
+   ],
+   "montage": [
+    "sub-QZTsn6/ses-PeriOp/montage/sub-QZTsn6_ses-PeriOp_montage.tsv"
+   ]
+  },
+  {
+   "subject": "sub-VopvKx",
+   "med": "MedOff",
+   "file": "sub-VopvKx/ses-PeriOp/meg/sub-VopvKx_ses-PeriOp_task-HoldR_acq-MedOff_run-1_meg.fif",
+   "bytes": 2048176749,
+   "sidecars": [
+    "sub-VopvKx/ses-PeriOp/meg/sub-VopvKx_ses-PeriOp_task-HoldR_acq-MedOff_run-1_channels.tsv",
+    "sub-VopvKx/ses-PeriOp/meg/sub-VopvKx_ses-PeriOp_task-HoldR_acq-MedOff_run-1_events.tsv",
+    "sub-VopvKx/ses-PeriOp/meg/sub-VopvKx_ses-PeriOp_task-HoldR_acq-MedOff_run-1_meg.json"
+   ],
+   "montage": [
+    "sub-VopvKx/ses-PeriOp/montage/sub-VopvKx_ses-PeriOp_montage.tsv"
+   ]
+  },
+  {
+   "subject": "sub-VopvKx",
+   "med": "MedOn",
+   "file": "sub-VopvKx/ses-PeriOp/meg/sub-VopvKx_ses-PeriOp_task-HoldR_acq-MedOn_run-1_meg.fif",
+   "bytes": 2141201641,
+   "sidecars": [
+    "sub-VopvKx/ses-PeriOp/meg/sub-VopvKx_ses-PeriOp_task-HoldR_acq-MedOn_run-1_channels.tsv",
+    "sub-VopvKx/ses-PeriOp/meg/sub-VopvKx_ses-PeriOp_task-HoldR_acq-MedOn_run-1_events.tsv",
+    "sub-VopvKx/ses-PeriOp/meg/sub-VopvKx_ses-PeriOp_task-HoldR_acq-MedOn_run-1_meg.json"
+   ],
+   "montage": [
+    "sub-VopvKx/ses-PeriOp/montage/sub-VopvKx_ses-PeriOp_montage.tsv"
+   ]
+  },
+  {
+   "subject": "sub-dCsWjQ",
+   "med": "MedOff",
+   "file": "sub-dCsWjQ/ses-PeriOp/meg/sub-dCsWjQ_ses-PeriOp_task-HoldL_acq-MedOff_run-1_meg.fif",
+   "bytes": 2022982602,
+   "sidecars": [
+    "sub-dCsWjQ/ses-PeriOp/meg/sub-dCsWjQ_ses-PeriOp_task-HoldL_acq-MedOff_run-1_channels.tsv",
+    "sub-dCsWjQ/ses-PeriOp/meg/sub-dCsWjQ_ses-PeriOp_task-HoldL_acq-MedOff_run-1_events.tsv",
+    "sub-dCsWjQ/ses-PeriOp/meg/sub-dCsWjQ_ses-PeriOp_task-HoldL_acq-MedOff_run-1_meg.json"
+   ],
+   "montage": [
+    "sub-dCsWjQ/ses-PeriOp/montage/sub-dCsWjQ_ses-PeriOp_montage.tsv"
+   ]
+  },
+  {
+   "subject": "sub-dCsWjQ",
+   "med": "MedOn",
+   "file": "sub-dCsWjQ/ses-PeriOp/meg/sub-dCsWjQ_ses-PeriOp_task-HoldL_acq-MedOn_run-1_split-01_meg.fif",
+   "bytes": 2145077812,
+   "sidecars": [
+    "sub-dCsWjQ/ses-PeriOp/meg/sub-dCsWjQ_ses-PeriOp_task-HoldL_acq-MedOn_run-1_channels.tsv",
+    "sub-dCsWjQ/ses-PeriOp/meg/sub-dCsWjQ_ses-PeriOp_task-HoldL_acq-MedOn_run-1_meg.json",
+    "sub-dCsWjQ/ses-PeriOp/meg/sub-dCsWjQ_ses-PeriOp_task-HoldL_acq-MedOn_run-1_split-01_events.tsv"
+   ],
+   "montage": [
+    "sub-dCsWjQ/ses-PeriOp/montage/sub-dCsWjQ_ses-PeriOp_montage.tsv"
+   ]
+  },
+  {
+   "subject": "sub-gNX5yb",
+   "med": "MedOff",
+   "file": "sub-gNX5yb/ses-PeriOp/meg/sub-gNX5yb_ses-PeriOp_task-HoldL_acq-MedOff_run-1_meg.fif",
+   "bytes": 2044300673,
+   "sidecars": [
+    "sub-gNX5yb/ses-PeriOp/meg/sub-gNX5yb_ses-PeriOp_task-HoldL_acq-MedOff_run-1_channels.tsv",
+    "sub-gNX5yb/ses-PeriOp/meg/sub-gNX5yb_ses-PeriOp_task-HoldL_acq-MedOff_run-1_events.tsv",
+    "sub-gNX5yb/ses-PeriOp/meg/sub-gNX5yb_ses-PeriOp_task-HoldL_acq-MedOff_run-1_meg.json"
+   ],
+   "montage": [
+    "sub-gNX5yb/ses-PeriOp/montage/sub-gNX5yb_ses-PeriOp_montage.tsv"
+   ]
+  },
+  {
+   "subject": "sub-gNX5yb",
+   "med": "MedOn",
+   "file": "sub-gNX5yb/ses-PeriOp/meg/sub-gNX5yb_ses-PeriOp_task-HoldL_acq-MedOn_run-1_meg.fif",
+   "bytes": 2048176733,
+   "sidecars": [
+    "sub-gNX5yb/ses-PeriOp/meg/sub-gNX5yb_ses-PeriOp_task-HoldL_acq-MedOn_run-1_channels.tsv",
+    "sub-gNX5yb/ses-PeriOp/meg/sub-gNX5yb_ses-PeriOp_task-HoldL_acq-MedOn_run-1_events.tsv",
+    "sub-gNX5yb/ses-PeriOp/meg/sub-gNX5yb_ses-PeriOp_task-HoldL_acq-MedOn_run-1_meg.json"
+   ],
+   "montage": [
+    "sub-gNX5yb/ses-PeriOp/montage/sub-gNX5yb_ses-PeriOp_montage.tsv"
+   ]
+  },
+  {
+   "subject": "sub-hnetKS",
+   "med": "MedOff",
+   "file": "sub-hnetKS/ses-PeriOp/meg/sub-hnetKS_ses-PeriOp_task-HoldL_acq-MedOff_run-1_meg.fif",
+   "bytes": 1910577629,
+   "sidecars": [
+    "sub-hnetKS/ses-PeriOp/meg/sub-hnetKS_ses-PeriOp_task-HoldL_acq-MedOff_run-1_channels.tsv",
+    "sub-hnetKS/ses-PeriOp/meg/sub-hnetKS_ses-PeriOp_task-HoldL_acq-MedOff_run-1_events.tsv",
+    "sub-hnetKS/ses-PeriOp/meg/sub-hnetKS_ses-PeriOp_task-HoldL_acq-MedOff_run-1_meg.json"
+   ],
+   "montage": [
+    "sub-hnetKS/ses-PeriOp/montage/sub-hnetKS_ses-PeriOp_montage.tsv"
+   ]
+  },
+  {
+   "subject": "sub-hnetKS",
+   "med": "MedOn",
+   "file": "sub-hnetKS/ses-PeriOp/meg/sub-hnetKS_ses-PeriOp_task-HoldL_acq-MedOn_run-1_meg.fif",
+   "bytes": 1879569449,
+   "sidecars": [
+    "sub-hnetKS/ses-PeriOp/meg/sub-hnetKS_ses-PeriOp_task-HoldL_acq-MedOn_run-1_channels.tsv",
+    "sub-hnetKS/ses-PeriOp/meg/sub-hnetKS_ses-PeriOp_task-HoldL_acq-MedOn_run-1_events.tsv",
+    "sub-hnetKS/ses-PeriOp/meg/sub-hnetKS_ses-PeriOp_task-HoldL_acq-MedOn_run-1_meg.json"
+   ],
+   "montage": [
+    "sub-hnetKS/ses-PeriOp/montage/sub-hnetKS_ses-PeriOp_montage.tsv"
+   ]
+  },
+  {
+   "subject": "sub-i4oK0F",
+   "med": "MedOff",
+   "file": "sub-i4oK0F/ses-PeriOp/meg/sub-i4oK0F_ses-PeriOp_task-HoldL_acq-MedOff_run-1_meg.fif",
+   "bytes": 2011354489,
+   "sidecars": [
+    "sub-i4oK0F/ses-PeriOp/meg/sub-i4oK0F_ses-PeriOp_task-HoldL_acq-MedOff_run-1_channels.tsv",
+    "sub-i4oK0F/ses-PeriOp/meg/sub-i4oK0F_ses-PeriOp_task-HoldL_acq-MedOff_run-1_events.tsv",
+    "sub-i4oK0F/ses-PeriOp/meg/sub-i4oK0F_ses-PeriOp_task-HoldL_acq-MedOff_run-1_meg.json"
+   ],
+   "montage": [
+    "sub-i4oK0F/ses-PeriOp/montage/sub-i4oK0F_ses-PeriOp_montage.tsv"
+   ]
+  },
+  {
+   "subject": "sub-i4oK0F",
+   "med": "MedOn",
+   "file": "sub-i4oK0F/ses-PeriOp/meg/sub-i4oK0F_ses-PeriOp_task-HoldL_acq-MedOn_run-1_meg.fif",
+   "bytes": 1999726368,
+   "sidecars": [
+    "sub-i4oK0F/ses-PeriOp/meg/sub-i4oK0F_ses-PeriOp_task-HoldL_acq-MedOn_run-1_channels.tsv",
+    "sub-i4oK0F/ses-PeriOp/meg/sub-i4oK0F_ses-PeriOp_task-HoldL_acq-MedOn_run-1_events.tsv",
+    "sub-i4oK0F/ses-PeriOp/meg/sub-i4oK0F_ses-PeriOp_task-HoldL_acq-MedOn_run-1_meg.json"
+   ],
+   "montage": [
+    "sub-i4oK0F/ses-PeriOp/montage/sub-i4oK0F_ses-PeriOp_montage.tsv"
+   ]
+  },
+  {
+   "subject": "sub-iDpl28",
+   "med": "MedOff",
+   "file": "sub-iDpl28/ses-PeriOp/meg/sub-iDpl28_ses-PeriOp_task-HoldR_acq-MedOff_run-1_split-01_meg.fif",
+   "bytes": 2145074223,
+   "sidecars": [
+    "sub-iDpl28/ses-PeriOp/meg/sub-iDpl28_ses-PeriOp_task-HoldR_acq-MedOff_run-1_channels.tsv",
+    "sub-iDpl28/ses-PeriOp/meg/sub-iDpl28_ses-PeriOp_task-HoldR_acq-MedOff_run-1_meg.json",
+    "sub-iDpl28/ses-PeriOp/meg/sub-iDpl28_ses-PeriOp_task-HoldR_acq-MedOff_run-1_split-01_events.tsv"
+   ],
+   "montage": [
+    "sub-iDpl28/ses-PeriOp/montage/sub-iDpl28_ses-PeriOp_montage.tsv"
+   ]
+  },
+  {
+   "subject": "sub-iDpl28",
+   "med": "MedOn",
+   "file": "sub-iDpl28/ses-PeriOp/meg/sub-iDpl28_ses-PeriOp_task-HoldR_acq-MedOn_run-1_split-01_meg.fif",
+   "bytes": 2145074198,
+   "sidecars": [
+    "sub-iDpl28/ses-PeriOp/meg/sub-iDpl28_ses-PeriOp_task-HoldR_acq-MedOn_run-1_channels.tsv",
+    "sub-iDpl28/ses-PeriOp/meg/sub-iDpl28_ses-PeriOp_task-HoldR_acq-MedOn_run-1_meg.json",
+    "sub-iDpl28/ses-PeriOp/meg/sub-iDpl28_ses-PeriOp_task-HoldR_acq-MedOn_run-1_split-01_events.tsv"
+   ],
+   "montage": [
+    "sub-iDpl28/ses-PeriOp/montage/sub-iDpl28_ses-PeriOp_montage.tsv"
+   ]
+  },
+  {
+   "subject": "sub-jyC0j3",
+   "med": "MedOff",
+   "file": "sub-jyC0j3/ses-PeriOp/meg/sub-jyC0j3_ses-PeriOp_task-HoldR_acq-MedOff_run-1_meg.fif",
+   "bytes": 2044300713,
+   "sidecars": [
+    "sub-jyC0j3/ses-PeriOp/meg/sub-jyC0j3_ses-PeriOp_task-HoldR_acq-MedOff_run-1_channels.tsv",
+    "sub-jyC0j3/ses-PeriOp/meg/sub-jyC0j3_ses-PeriOp_task-HoldR_acq-MedOff_run-1_events.tsv",
+    "sub-jyC0j3/ses-PeriOp/meg/sub-jyC0j3_ses-PeriOp_task-HoldR_acq-MedOff_run-1_meg.json"
+   ],
+   "montage": [
+    "sub-jyC0j3/ses-PeriOp/montage/sub-jyC0j3_ses-PeriOp_montage.tsv"
+   ]
+  },
+  {
+   "subject": "sub-jyC0j3",
+   "med": "MedOn",
+   "file": "sub-jyC0j3/ses-PeriOp/meg/sub-jyC0j3_ses-PeriOp_task-HoldR_acq-MedOn_run-1_meg.fif",
+   "bytes": 2088875057,
+   "sidecars": [
+    "sub-jyC0j3/ses-PeriOp/meg/sub-jyC0j3_ses-PeriOp_task-HoldR_acq-MedOn_run-1_channels.tsv",
+    "sub-jyC0j3/ses-PeriOp/meg/sub-jyC0j3_ses-PeriOp_task-HoldR_acq-MedOn_run-1_events.tsv",
+    "sub-jyC0j3/ses-PeriOp/meg/sub-jyC0j3_ses-PeriOp_task-HoldR_acq-MedOn_run-1_meg.json"
+   ],
+   "montage": [
+    "sub-jyC0j3/ses-PeriOp/montage/sub-jyC0j3_ses-PeriOp_montage.tsv"
+   ]
+  },
+  {
+   "subject": "sub-oLNpHd",
+   "med": "MedOff",
+   "file": "sub-oLNpHd/ses-PeriOp/meg/sub-oLNpHd_ses-PeriOp_task-HoldL_acq-MedOff_run-1_split-01_meg.fif",
+   "bytes": 2145082138,
+   "sidecars": [
+    "sub-oLNpHd/ses-PeriOp/meg/sub-oLNpHd_ses-PeriOp_task-HoldL_acq-MedOff_run-1_channels.tsv",
+    "sub-oLNpHd/ses-PeriOp/meg/sub-oLNpHd_ses-PeriOp_task-HoldL_acq-MedOff_run-1_meg.json",
+    "sub-oLNpHd/ses-PeriOp/meg/sub-oLNpHd_ses-PeriOp_task-HoldL_acq-MedOff_run-1_split-01_events.tsv"
+   ],
+   "montage": [
+    "sub-oLNpHd/ses-PeriOp/montage/sub-oLNpHd_ses-PeriOp_montage.tsv"
+   ]
+  },
+  {
+   "subject": "sub-oLNpHd",
+   "med": "MedOn",
+   "file": "sub-oLNpHd/ses-PeriOp/meg/sub-oLNpHd_ses-PeriOp_task-HoldL_acq-MedOn_run-1_split-01_meg.fif",
+   "bytes": 2145082284,
+   "sidecars": [
+    "sub-oLNpHd/ses-PeriOp/meg/sub-oLNpHd_ses-PeriOp_task-HoldL_acq-MedOn_run-1_channels.tsv",
+    "sub-oLNpHd/ses-PeriOp/meg/sub-oLNpHd_ses-PeriOp_task-HoldL_acq-MedOn_run-1_meg.json",
+    "sub-oLNpHd/ses-PeriOp/meg/sub-oLNpHd_ses-PeriOp_task-HoldL_acq-MedOn_run-1_split-01_events.tsv"
+   ],
+   "montage": [
+    "sub-oLNpHd/ses-PeriOp/montage/sub-oLNpHd_ses-PeriOp_montage.tsv"
+   ]
+  }
+ ]
+}
